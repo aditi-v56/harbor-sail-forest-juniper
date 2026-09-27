@@ -1,0 +1,5 @@
+azure-functions
+openai>=1.40.0
+azure-cosmos>=4.7.0
+msal>=1.28.0
+requests>=2.32.0

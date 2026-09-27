@@ -1,0 +1,17 @@
+{
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1": 1.0,
+  "support_phishing": 125,
+  "support_safe": 125,
+  "confusion_matrix": [
+    [
+      125,
+      0
+    ],
+    [
+      0,
+      125
+    ]
+  ]
+}
